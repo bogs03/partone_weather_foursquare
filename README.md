@@ -1,3 +1,12 @@
+This app shows the weather and establishments in a specific city. It would ask for a keyword related to an establishment and a city name.
+
+Unfortunately, because foursquare v2 api is deprecated and there is no proper documentation for v3, instead of using "Search for Venues" api, I only used the version which is free and still working : "Suggest Search Autocomplete"
+
+The design is simple and straight forward. Users would be able to search for a place and it would return the weather forecasts for specific times of the day and the establishments related to the keyword. Bootsrap has been used for creating a responsive design and because of its compatibility with most browsers.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
