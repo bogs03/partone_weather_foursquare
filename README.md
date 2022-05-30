@@ -1,1 +1,1 @@
-# partone_weather_foursquare
+# Weather app using foursquare
